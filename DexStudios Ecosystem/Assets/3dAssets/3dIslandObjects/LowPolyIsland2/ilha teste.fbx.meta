@@ -1,0 +1,334 @@
+fileFormatVersion: 2
+guid: 36899dd2dc4ae4cbda4ecb47ba84fea3
+ModelImporter:
+  serializedVersion: 22200
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Areia
+    second: {fileID: 2100000, guid: a87637dd441aa450e8c995d7174b1914, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Balde
+    second: {fileID: 2100000, guid: 10cc5fd2eaffe4561bcf5fed1bbc3fe4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bandeira
+    second: {fileID: 2100000, guid: bdcc4b55a4fdc44d98639298a5d86d05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cactu
+    second: {fileID: 2100000, guid: 139fa7e0db8d7403b8fb76d723a9dcdc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Caixa Iglu
+    second: {fileID: 2100000, guid: 6e709caf98dd742aba50c249622c441b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Carinho
+    second: {fileID: 2100000, guid: 4bafe21d3bb584018b39cc54d0c2dd20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Castelo
+    second: {fileID: 2100000, guid: 3478e3dedd90a46cab0aa78eee13fbcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Concreto
+    second: {fileID: 2100000, guid: 7bff7643467074679874015b71b53aa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Corda
+    second: {fileID: 2100000, guid: dbf07e5492ad4417e93690e040fd769b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Escudo
+    second: {fileID: 2100000, guid: 74d0946449de642b1a6706624b44c243, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Espinhos cactu
+    second: {fileID: 2100000, guid: 74a8cf2e7a9f149668ea3edf7c573c52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Espuma
+    second: {fileID: 2100000, guid: b696a8beef60445e99ce49209c7c5324, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fechaduras
+    second: {fileID: 2100000, guid: 7dc6814efd7fa4d6f8fba55b84c9f892, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.001
+    second: {fileID: 2100000, guid: ec9637c337d964efb8f537a3804de1d9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Folhas.002
+    second: {fileID: 2100000, guid: 7cf4bc7745cd94df5903e914f0f4d6e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grama
+    second: {fileID: 2100000, guid: 881902b46f07648d5a77d5183a3e5560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grama ind
+    second: {fileID: 2100000, guid: d6823e2b5fe7c4c4da82ac04dd4aff23, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira Muito clara
+    second: {fileID: 2100000, guid: c3ec596135ce7479ea9ecfa310607f36, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira casa
+    second: {fileID: 2100000, guid: 6f31daa63da7c4cdbb859093fef28efc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira clara
+    second: {fileID: 2100000, guid: e9707ba138bd84374a7d1883ec81ca9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira colunas
+    second: {fileID: 2100000, guid: 3d9efdf35608849669bde0cf4b352b66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira escura
+    second: {fileID: 2100000, guid: ac7baf688d8ff4b749036632597b8a7a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Madeira telhado
+    second: {fileID: 2100000, guid: 1adc5ae9bc7824d0e9fcb6555ca364f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material Iglu
+    second: {fileID: 2100000, guid: a0dcb39d32d4f4bf49c6e0cc08d024a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material Torre
+    second: {fileID: 2100000, guid: a429cd0a694b54db6a551f1556e2cdd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 736d13025fd9345c2b26192cd18fddf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Montanha
+    second: {fileID: 2100000, guid: 83ecc7c9f1f4c4c65a0c12ed7605ccd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Parafusos
+    second: {fileID: 2100000, guid: 21628f610432f4318b772900036c7aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedras
+    second: {fileID: 2100000, guid: 3c48f87d780934c87bacecdd6ce21faf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pedras valiosas
+    second: {fileID: 2100000, guid: 9888c1ecd4614499ab86a12244893fc9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Preto fosco
+    second: {fileID: 2100000, guid: d5a434898d60e4698baf97ea13a969b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rodas
+    second: {fileID: 2100000, guid: d9366128f3c90448f82654432d6d72e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Telhado castelo
+    second: {fileID: 2100000, guid: 91942eedad473419ca8224e7878f57bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tenda iglu
+    second: {fileID: 2100000, guid: ff3ac84abff2d4267ad081ab7f795109, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra
+    second: {fileID: 2100000, guid: fc434c8f7f205433ba6e90270b8d160c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Terra.001
+    second: {fileID: 2100000, guid: a17f56886b557498f8516aa6c0e473f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tijolos
+    second: {fileID: 2100000, guid: dbe2e2817efc64734b9d2f6605b76515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tronco
+    second: {fileID: 2100000, guid: 870fe1cbe5f9b41b9b950eb977b4ff54, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tronco.001
+    second: {fileID: 2100000, guid: a9d62e925c63e45cf81139f553af6510, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "T\xE9cido"
+    second: {fileID: 2100000, guid: 1067ba39067c042998729a279efa6bca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "T\xE9cido.001"
+    second: {fileID: 2100000, guid: 848382619b5c34c5b83d260d7d3ea06e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "T\xE9cido.002"
+    second: {fileID: 2100000, guid: 3bdf2495eced54a44a22b8bcf9ee0430, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "T\xE9cido.003"
+    second: {fileID: 2100000, guid: 7d2503c4639c64e3489f8c4071222a48, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vidro
+    second: {fileID: 2100000, guid: eca06f0d3e1de49eaa48f27b20dc90c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: "\xC1gua"
+    second: {fileID: 2100000, guid: 1114cbcea95ae469099bf4a4ce01aa90, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
