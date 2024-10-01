@@ -1,0 +1,1 @@
+import * as near from 'https://cdn.jsdelivr.net/npm/near-api-js@1.1.0/dist/near-api-js.js'

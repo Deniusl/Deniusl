@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638629552600000000
-    m_Hash: 1577888847
+      ticks: 638633704990000000
+    m_Hash: 2929670919
   m_LockFileStatus:
     m_FilePath: /Volumes/T7/GitHub/Deniusl/DexStudios Ecosystem/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638629552600000000
-    m_Hash: 2258231156
+      ticks: 638633704990000000
+    m_Hash: 976313011
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,62 @@ m_LocalPackages:
 m_ProjectPath: /Volumes/T7/GitHub/Deniusl/DexStudios Ecosystem/Packages
 m_EditorVersion: 2022.3.21f1 (bf09ca542b87)
 m_ResolvedPackages:
+- packageId: com.cysharp.unitask@https://github.com/Cysharp/UniTask.git?path=src/UniTask/Assets/Plugins/UniTask
+  testable: 0
+  isDirectDependency: 1
+  version: 2.5.9
+  source: 5
+  resolvedPath: /Volumes/T7/GitHub/Deniusl/DexStudios Ecosystem/Library/PackageCache/com.cysharp.unitask@27a0c06ede
+  assetPath: Packages/com.cysharp.unitask
+  name: com.cysharp.unitask
+  displayName: UniTask
+  author:
+    name: Cysharp, Inc.
+    email: 
+    url: https://cysharp.co.jp/en/
+  category: Task
+  type: 
+  description: Provides an efficient async/await integration to Unity.
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - async/await
+  - async
+  - Task
+  - UniTask
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
 - packageId: com.unity.collab-proxy@2.4.4
   testable: 0
   isDirectDependency: 1
@@ -118,12 +174,14 @@ m_ResolvedPackages:
     - 2.4.3
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     compatible:
     - 2.2.0
     - 2.3.1
     - 2.4.3
     - 2.4.4
     - 2.5.1
+    - 2.5.2
     recommended: 2.2.0
     deprecated: []
   dependencies: []
@@ -792,6 +850,71 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 1.9.1
+    nextVersion: 
+    recommendedVersion: 
+    isDeprecated: 0
+    deprecationMessage: 
+  isDeprecated: 0
+  deprecationMessage: 
+- packageId: jillejr.newtonsoft.json-for-unity@https://github.com/jilleJr/Newtonsoft.Json-for-Unity.git#upm
+  testable: 0
+  isDirectDependency: 1
+  version: 10.0.302
+  source: 5
+  resolvedPath: /Volumes/T7/GitHub/Deniusl/DexStudios Ecosystem/Library/PackageCache/jillejr.newtonsoft.json-for-unity@f2c6cb0981
+  assetPath: Packages/jillejr.newtonsoft.json-for-unity
+  name: jillejr.newtonsoft.json-for-unity
+  displayName: Json.NET 10.0.3 for Unity
+  author:
+    name: jilleJr
+    email: 
+    url: 
+  category: Utility
+  type: library
+  description: "Json.NET is a popular high-performance JSON framework for .NET\n\nThis
+    package is a fork of Newtonsoft.Json containing custom builds targeting standalone,
+    portable (UWP, WP8), and AOT targets such as all IL2CPP builds (iOS, WebGL, Android,
+    Windows, Mac OS X, et.al).\n\nThis package is licensed under The MIT License
+    (MIT)\n\nCopyright \xA9 2019 Kalle Jillheden (jilleJr)\nhttps://github.com/jilleJr/Newtonsoft.Json-for-Unity\n\nCopyright
+    \xA9 2016 SaladLab\nhttps://github.com/SaladLab/Json.Net.Unity3D\n\nCopyright
+    \xA9 2007 James Newton-King\nhttps://github.com/JamesNK/Newtonsoft.Json\n\nSee
+    full copyrights in LICENSE.md inside package"
+  status: 0
+  errors: []
+  versions:
+    all: []
+    compatible: []
+    recommended: 
+    deprecated: []
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - json
+  - json.net
+  - newtonsoft
+  - newtonsoft.json
+  - unity
+  - upm
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+    configSource: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/jilleJr/Newtonsoft.Json-for-Unity.git
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
     nextVersion: 
     recommendedVersion: 
     isDeprecated: 0

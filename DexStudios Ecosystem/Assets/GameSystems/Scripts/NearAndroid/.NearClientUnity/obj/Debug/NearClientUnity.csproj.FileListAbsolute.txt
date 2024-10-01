@@ -1,0 +1,13 @@
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\obj\Debug\NearClientUnity.csproj.AssemblyReference.cache
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\obj\Debug\NearClientUnity.csproj.CoreCompileInputs.cache
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\.DLLs\UnityEngine.dll.mdb
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\NearClientUnity.dll.config
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\NearClientUnity.dll
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\NearClientUnity.pdb
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\Newtonsoft.Json.dll
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\UnityEngine.dll
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\Newtonsoft.Json.xml
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\bin\Debug\UnityEngine.xml
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\obj\Debug\NearClientUnity.csproj.CopyComplete
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\obj\Debug\NearClientUnity.dll
+C:\Users\filis\Unity projects\near-api-unity\Assets\Scripts\NearSrc\Src\NearClientUnity\obj\Debug\NearClientUnity.pdb
