@@ -2,6 +2,8 @@ using TMPro;
 using UnityEngine;
 using UnityEngine.Serialization;
 using UnityEngine.UI;
+using System.Collections.Generic;
+using GameSystems.Scripts;
 
 public class ConnectWalletPanel : MonoBehaviour
 {
@@ -18,11 +20,37 @@ public class ConnectWalletPanel : MonoBehaviour
     [SerializeField] private Animation _connectingAnimation;
     [SerializeField] private GameObject _connectionProggressGameobject;
 
+    [SerializeField] private CustomDropdown _networkDropdown;
+
     public Button ConnectButton => _connectWalletButton;
 
     private void Awake()
     {
         _connectionProggressGameobject.SetActive(false);
+    }
+
+    private void Start()
+    {
+        InitializeNetworkDropdown();
+
+        _connectWalletButton.onClick.AddListener(OnConnectWalletButtonClicked);
+    } 
+
+    private void InitializeNetworkDropdown()
+    {
+        List<CustomDropdownItemOption> options = new List<CustomDropdownItemOption>();
+
+        foreach (var network in AvailableNetworks.networksData)
+        {
+            CustomDropdownItemOption option = new CustomDropdownItemOption(
+                network.networkName,
+                () => OnNetworkSelected(network),
+                null
+            );
+            options.Add(option);
+        }
+
+        _networkDropdown.Initialize(options);
     }
 
     public void StarConnection()
@@ -73,6 +101,22 @@ public class ConnectWalletPanel : MonoBehaviour
         _connectionProgressSlider.value = 0;
         _connectionProggressGameobject.SetActive(false);
     }
+    private void OnNetworkSelected(NetworkData selectedNetwork)
+    {
+        Debug.Log("Selected network: " + selectedNetwork.networkName);
+        AvailableNetworks.CurrentNetworkData = selectedNetwork;
+        _networkDropdown.Hide();
+        StarConnection();
+    }
 
+    private void OnConnectWalletButtonClicked()
+    {
+        foreach (GameObject obj in _objectsToDeactivateOnConnecting)
+        {
+            obj.SetActive(false);
+        }
+
+        _networkDropdown.Show();
+    }
 
 }

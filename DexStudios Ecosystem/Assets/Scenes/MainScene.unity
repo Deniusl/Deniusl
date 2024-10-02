@@ -5817,7 +5817,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 15.05
+  m_fontSize: 22
   m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -5911,12 +5911,12 @@ MonoBehaviour:
   m_GameObject: {fileID: 6584787893252187488}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 880acff7f63b9488b857c1003ca1e159, type: 3}
+  m_Script: {fileID: 11500000, guid: 6634e170ee8c4458aa9af5f8ab5dba88, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _disconectButton: {fileID: 0}
-  _balanceText: {fileID: 0}
-  _balanceHolder: {fileID: 0}
+  _disconectButton: {fileID: 5083631028758680422}
+  _balanceText: {fileID: 2870381332299840645}
+  _balanceHolder: {fileID: 3690294325780553016}
 --- !u!4 &855856093633686798
 Transform:
   m_ObjectHideFlags: 0
@@ -6025,7 +6025,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2874629350352436810}
-  - component: {fileID: 1918262716476178659}
   - component: {fileID: 3583680383178040822}
   m_Layer: 5
   m_Name: Super Text
@@ -7166,18 +7165,6 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!114 &1918262716476178659
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 970146206550502469}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!33 &1924364391580645560
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -7694,7 +7681,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 2173181089779710882}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: ef920b9d8a5874108a8789ac1f3477c2, type: 3}
+  m_Script: {fileID: 11500000, guid: 811d28d199ccc4886b86eacbd9274912, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _connectWalletButton: {fileID: 4335502298900122216}
@@ -7708,6 +7695,7 @@ MonoBehaviour:
   _tipAnimation: {fileID: 4481130627398330664}
   _connectingAnimation: {fileID: 335550459084732879}
   _connectionProggressGameobject: {fileID: 5993683782925627875}
+  _networkDropdown: {fileID: 7918138350877073468}
 --- !u!33 &2429447055121687844
 MeshFilter:
   m_ObjectHideFlags: 0
@@ -8338,8 +8326,8 @@ MonoBehaviour:
       m_Calls: []
   m_text: Disconnect wallet
   m_isRightToLeft: 0
-  m_fontAsset: {fileID: 11400000, guid: edc90f614287e4080a2f7094b52f85e3, type: 2}
-  m_sharedMaterial: {fileID: 4669462166148958148, guid: edc90f614287e4080a2f7094b52f85e3, type: 2}
+  m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
+  m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_fontSharedMaterials: []
   m_fontMaterial: {fileID: 0}
   m_fontMaterials: []
@@ -8363,7 +8351,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 14.7
+  m_fontSize: 22
   m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -9513,7 +9501,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!23 &3797499267313524710
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11049,7 +11037,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8786154063053147433}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
   m_Name: 
@@ -11293,8 +11281,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -208.66669, y: 60.166656}
-  m_SizeDelta: {x: 188.74, y: 131.6699}
+  m_AnchoredPosition: {x: -259.56927, y: 184}
+  m_SizeDelta: {x: 458.7748, y: 320.0532}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!33 &5496008886270878778
 MeshFilter:
@@ -11628,8 +11616,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -456.5833, y: 360.83334}
-  m_SizeDelta: {x: 1129.5, y: 720}
+  m_AnchoredPosition: {x: -960.01, y: 540.42}
+  m_SizeDelta: {x: 1920, y: 1079.2}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!4 &5720232092825551830
 Transform:
@@ -12734,7 +12722,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 8786154063053147433}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
@@ -14035,8 +14023,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: -209.66669, y: 60.166656}
-  m_SizeDelta: {x: 188.74, y: 131.6699}
+  m_AnchoredPosition: {x: -262, y: 184}
+  m_SizeDelta: {x: 458.7748, y: 320.0532}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!33 &7738951541206457528
 MeshFilter:
@@ -14413,7 +14401,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 27
+  m_fontSize: 44.75
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
@@ -14712,14 +14700,14 @@ MonoBehaviour:
   m_GameObject: {fileID: 7918138350877073457}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: c82595e33c9d74d829beb18102bd3a15, type: 3}
+  m_Script: {fileID: 11500000, guid: 7b7e853bb3913384da1984bd3926e065, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   _options: []
   _itemPrefab: {fileID: 7963482975565764783, guid: 71a01a1ff5cb41144a992dd3744c7c3b, type: 3}
   _itemsParent: {fileID: 7918138351687039565}
   _itemsParentCanvasGroup: {fileID: 7918138350877073471}
-  _selectedItem: {fileID: 7963482975565764783, guid: 71a01a1ff5cb41144a992dd3744c7c3b, type: 3}
+  _selectedItem: {fileID: 0}
   _fadeDuration: 0.3
   IsExpanded: 0
 --- !u!222 &7918138350877073469
@@ -15708,7 +15696,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7618692387863480541}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
   m_Name: 
