@@ -7,7 +7,6 @@ using System.Net;
 using Cysharp.Threading.Tasks;
 using GameSystems.Scripts;
 using Newtonsoft.Json;
-using UI;
 using UnityEngine;
 using UnityEngine.Networking;
 using Network = GameSystems.Scripts.Network;

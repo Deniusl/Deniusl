@@ -381,9 +381,6 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
--analyzer:"Assets/GameSystems/ConnectWallet/Plugins/DOTween/DOTween.dll"
--analyzer:"Assets/GameSystems/ConnectWallet/Plugins/DOTween/Editor/DOTweenEditor.dll"
--analyzer:"Assets/GameSystems/ConnectWallet/Plugins/NearClientUnity/NearClientUnity.dll"
 "Assets/D-Tree assets/3dAssets/LowPolyWater_Pack/Scripts/Editor/GeneratePlane.cs"
 "Assets/GameSystems/ConnectWallet/Editor/AudioManagerEditor.cs"
 "Assets/GameSystems/ConnectWallet/Editor/ERC20_Tests/ERC20_Test.cs"
@@ -391,8 +388,6 @@
 "Assets/GameSystems/ConnectWallet/Editor/SelectByTag.cs"
 "Assets/GameSystems/ConnectWallet/Editor/SelectByTagMenu.cs"
 "Assets/GameSystems/ConnectWallet/Editor/ServerSettings/ChainsafeServerSettings.cs"
-"Assets/GameSystems/Scripts/Editor/MakeScreenshot.cs"
-"Assets/GameSystems/Scripts/Editor/PublicKeyLoader.cs"
 "Assets/WalletConnectUnity/Scripts/WalletConnectSharp.Unity/Editor/WalletConnectEditor.cs"
 -langversion:9.0
 

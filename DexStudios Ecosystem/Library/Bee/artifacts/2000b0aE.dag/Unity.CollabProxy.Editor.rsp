@@ -354,9 +354,6 @@
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"/Applications/Unity/Hub/Editor/2022.3.21f1/Unity.app/Contents/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
--analyzer:"Assets/GameSystems/ConnectWallet/Plugins/DOTween/DOTween.dll"
--analyzer:"Assets/GameSystems/ConnectWallet/Plugins/DOTween/Editor/DOTweenEditor.dll"
--analyzer:"Assets/GameSystems/ConnectWallet/Plugins/NearClientUnity/NearClientUnity.dll"
 "Library/PackageCache/com.unity.collab-proxy@2.4.4/Editor/PlasticSCM/Toolbar/ToolbarButton.cs"
 -langversion:9.0
 

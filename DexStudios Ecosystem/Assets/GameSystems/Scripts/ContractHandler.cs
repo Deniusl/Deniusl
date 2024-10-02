@@ -6,7 +6,6 @@ using Cysharp.Threading.Tasks;
 using GameSystems.Scripts;
 using Newtonsoft.Json;
 using UnityEngine;
-using Types = GameSystems.Scripts.Types;
 
 public class ContractHandler
 {

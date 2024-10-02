@@ -74,6 +74,6 @@ namespace GameSystems.Scripts
 
 public interface IWebGLHandler
 {
-    void HandleWebGLPlatform(CustomDropdown customDropdown, Action<int> selectNetwork,
-        out bool isChainSelectedInUrl);
+     void HandleWebGLPlatform(CustomDropdown customDropdown, Action<int> selectNetwork,
+     out bool isChainSelectedInUrl);
 }
